@@ -1,5 +1,5 @@
 ### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
-### DATE: 12.03.2024
+### DATE: 02.03.2024
 ### NAME: PREMJI P
 ### REG : 212221043004
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
